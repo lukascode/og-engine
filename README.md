@@ -7,6 +7,6 @@ Loading 3D .obj models
 
 ![alt tag](https://raw.githubusercontent.com/lukascode/og-engine/master/example1.PNG)
 
-Lgihting
+Lighting
 
 ![alt tag](https://raw.githubusercontent.com/lukascode/og-engine/master/example2.gif)
